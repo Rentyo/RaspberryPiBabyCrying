@@ -8,7 +8,6 @@ Raspberry Pi에서 사운드 센서를 통해 소리를 감지하고, USB 마이
 ## 🔗 Related Repository
 
 * Android App Repository: [Capstone_BabyCrying](https://github.com/Rentyo/Capstone_BabyCrying)
-* Raspberry Pi Repository: [RaspberryPiBabyCrying](https://github.com/Rentyo/RaspberryPiBabyCrying)
 
 <br>
 
