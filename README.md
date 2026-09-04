@@ -3,7 +3,7 @@
 청각장애 보호자를 위한 **아이 울음소리 감지 및 원인 분류 시스템**의 Raspberry Pi 영역입니다.
 Raspberry Pi에서 사운드 센서를 통해 소리를 감지하고, USB 마이크로 녹음한 음성 데이터를 AI 모델로 분류한 뒤 Bluetooth를 통해 Android 앱으로 감지 결과를 전송하는 구조입니다.
 
-[아이울음소리 어플리케이션]([https://github.com/사용자명/리포지토리명](https://github.com/Rentyo/Capstone_BabyCrying))
+[아이울음소리 어플리케이션]([https://github.com/사용자명/리포지토리명](https://github.com/Rentyo/Capstone_BabyCrying])
 
 ## 📌 프로젝트 개요
 
